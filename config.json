@@ -11,7 +11,7 @@
   "nombre_local": "MI COMERCIO",
   "mensaje_ticket": "¡Gracias por su compra!",
   "disposicion_ticket": "Centro",
-  "gemini_api_key": "AQ.Ab8RN6KcT6lJscdwLXNCtB-nmcyPbVlItdDfA3Fv3kXB6PcIcQ",
+  "gemini_api_key": "",
   "gemini_model": "gemini-3-flash-preview",
   "notificaciones_activas": true,
   "notificaciones_intervalo_minutos": 1.5
