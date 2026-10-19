@@ -1,0 +1,18 @@
+{
+  "tema": "oscuro",
+  "tamano_fuente": 11,
+  "email_alertas": "",
+  "email_remitente": "",
+  "email_password": "",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 465,
+  "umbral_stock_bajo": 3,
+  "nombre_impresora": "",
+  "nombre_local": "MI COMERCIO",
+  "mensaje_ticket": "¡Gracias por su compra!",
+  "disposicion_ticket": "Centro",
+  "gemini_api_key": "AQ.Ab8RN6KcT6lJscdwLXNCtB-nmcyPbVlItdDfA3Fv3kXB6PcIcQ",
+  "gemini_model": "gemini-3-flash-preview",
+  "notificaciones_activas": true,
+  "notificaciones_intervalo_minutos": 1.5
+}
